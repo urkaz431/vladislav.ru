@@ -1,1 +1,1 @@
-# https://docs.github.com/ru/pages/quickstart
+# https://oracle.github.io/
